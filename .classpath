@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="arpack_combined_all.jar"/>
+	<classpathentry kind="lib" path="attributeSelectionSearchMethods.jar"/>
+	<classpathentry kind="lib" path="commons-compress-1.10.jar"/>
+	<classpathentry kind="lib" path="core.jar"/>
+	<classpathentry kind="lib" path="java-cup.jar"/>
+	<classpathentry kind="lib" path="JFlex.jar"/>
+	<classpathentry kind="lib" path="junit.jar"/>
+	<classpathentry kind="lib" path="mtj.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
